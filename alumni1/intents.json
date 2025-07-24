@@ -1,0 +1,89 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Good day", "What's up?"],
+      "responses": ["Hello! How can I assist you today?", "Hi! How can I help you?", "Hey there! What can I do for you?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Goodbye", "See you later", "Take care", "Bye"],
+      "responses": ["Goodbye! Have a great day!", "See you next time!", "Thanks for visiting!", "Take care!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "I appreciate it", "Much appreciated"],
+      "responses": ["You're welcome!", "Happy to help!", "Anytime!", "Glad I could assist!"]
+    },
+    {
+      "tag": "events",
+      "patterns": ["What alumni events are happening?", "Upcoming events?", "Are there any alumni gatherings?"],
+      "responses": ["You can check our alumni portal for upcoming events.", "We have several alumni events this year. Visit the events page for details.", "Don't miss out on the next alumni meetup! Check our website for info."]
+    },
+    {
+      "tag": "membership",
+      "patterns": ["How do I join the alumni association?", "What are the alumni membership benefits?", "Can I sign up for alumni membership?"],
+      "responses": ["You can join the alumni association by registering on our website.", "Membership comes with access to exclusive events, career services, and more.", "Visit our alumni membership page to sign up and enjoy the benefits."]
+    },
+    {
+      "tag": "donations",
+      "patterns": ["How can I donate?", "Can I contribute to the alumni fund?", "What is the donation process?"],
+      "responses": ["You can make donations through our online platform.", "We accept contributions to support alumni initiatives. Visit the donations page for more info.", "Thank you for your generosity! You can donate securely via our website."]
+    },
+    {
+      "tag": "career_advice",
+      "patterns": ["Do you offer career services?", "Can I get career advice?", "Is there a mentoring program for alumni?"],
+      "responses": ["Yes, we offer career counseling and mentorship for alumni. Visit the career services section.", "You can connect with an experienced mentor through our alumni network.", "We provide career support for all alumni. Please check our website for more information."]
+    },
+    {
+      "tag": "alumni_news",
+      "patterns": ["What's the latest alumni news?", "Do you have an alumni newsletter?", "How can I stay updated on alumni activities?"],
+      "responses": ["You can subscribe to our alumni newsletter for regular updates.", "Stay informed about alumni activities through our news page.", "We share the latest alumni news via our website and newsletter."]
+    },
+    {
+      "tag": "contact",
+      "patterns": ["How can I contact the alumni office?", "Is there an email for the alumni association?", "Can I call the alumni team?"],
+      "responses": ["You can reach the alumni office by emailing alumni@yourdomain.com.", "Feel free to call us at (123) 456-7890.", "Visit the contact page on our website to get in touch with the alumni office."]
+    },
+    {
+      "tag": "scholarships",
+      "patterns": ["Are there scholarships for alumni?", "Can alumni apply for financial aid?", "What scholarships are available?"],
+      "responses": ["Yes, we offer scholarships for alumni. Please check our scholarships page.", "Alumni are eligible for various scholarships. Visit the website to apply.", "Find out more about alumni scholarships by visiting the financial aid section."]
+    },
+    {
+      "tag": "reunion",
+      "patterns": ["Is there an alumni reunion?", "When is the next reunion?", "Tell me about the reunion event"],
+      "responses": ["The next alumni reunion is scheduled for [Date]. Don't miss it!", "Join us for the upcoming alumni reunion. Check the events page for more info.", "We have a reunion event planned this year. Visit our website to register."]
+    },
+    {
+      "tag": "volunteering",
+      "patterns": ["Can I volunteer?", "How do I become a volunteer?", "Are there volunteer opportunities for alumni?"],
+      "responses": ["We have several volunteering opportunities for alumni. Visit the volunteer section on our site.", "You can sign up to volunteer at various alumni events.", "Thank you for your interest in volunteering! Check our volunteer page for more info."]
+    },
+    {
+      "tag": "networking",
+      "patterns": ["How can I network with other alumni?", "Is there an alumni networking platform?", "How do I connect with other graduates?"],
+      "responses": ["You can network with fellow alumni through our online portal.", "Join our alumni network to stay connected and expand your professional network.", "We offer various events and online tools to help alumni stay in touch."]
+    },
+    {
+      "tag": "success_stories",
+      "patterns": ["Do you have any alumni success stories?", "Can I read about successful alumni?", "Tell me some alumni success stories"],
+      "responses": ["Yes, we feature inspiring alumni stories on our website.", "Check out the success stories section to read about our accomplished alumni.", "We regularly update our alumni success stories page with new inspiring tales."]
+    },
+    {
+      "tag": "transcripts",
+      "patterns": ["How do I get my transcript?", "Can alumni request transcripts?", "What is the process for getting a transcript?"],
+      "responses": ["You can request your transcript through our alumni services page.", "Transcripts can be requested online. Visit the transcript request section for details.", "Alumni can apply for transcripts by filling out a form on our website."]
+    },
+    {
+      "tag": "funny",
+      "patterns": ["Tell me a joke!", "Make me laugh", "Do you know any jokes?"],
+      "responses": ["Why don't skeletons fight each other? They don't have the guts!", "Why don't some couples go to the gym? Because some relationships don't work out!", "I would tell you a joke about a broken pencil, but it's pointless."]
+    },
+    {
+      "tag": "mentorship",
+      "patterns": ["How can I become a mentor?", "Is there a mentorship program?", "Can alumni become mentors?"],
+      "responses": ["You can become a mentor by signing up on our mentorship page.", "We have a mentorship program for alumni. Visit the website to get involved.", "Thank you for your interest in becoming a mentor! Check our mentorship program for details."]
+    }
+  ]
+}
